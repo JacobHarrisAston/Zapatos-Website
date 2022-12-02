@@ -33,8 +33,8 @@ Password: Customer321
 ADMIN SIDE ACCESS ON THE SERVER:
 url: https://220036425.cs2410-web01pvm.aston.ac.uk/ZapatosWeb/customerSide/home.php
 Admin Sign-in (demo details):
-Admin Email: customer1@gmail.com
-Password: Customer321
+Admin Email: admin@gmail.com
+Password: admin321
 
 
 CUSTOMER SIDE WORKING:
