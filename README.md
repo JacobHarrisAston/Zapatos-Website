@@ -1,13 +1,13 @@
 # Zapatos-Website
 Group 31, Aston University, CS2TP
 
-This is a website dedicated to selling affordable and trendy shoes to all people. There are sections for women, men and kids.
+The folder named ZapatosWeb is the most up to date code that was submitted for this assessment.
+
+This is a website dedicated to selling affordable and trendy shoes to young people - specifically university/college students. The site displays only the most current shoes in trend so users are able to buy mainstream products in one place, for cheaper prices than other fast fashion competitors. There are sections for women, men and kids.
 Any user can browse the website, however, only registered users can add items to their basket. Registered users can then check out and will receive confirmation of their order as well as seeing the order history.
 
-Hamam Embabsha: front-end in the Admin page 
-
-The Admin pages are the main pages for the admins to control the website in matters of adding products ,editing and deleting them. Also theres is a dashboard page thta show the numbers and statics of the websit.
-
+The Admin pages are the main pages for the admins to control the website in matters of adding products ,editing and deleting them. Only an admin can access this part of the website as it is separate from the customer side.
+ 
 ASTON SERVER CONNECTION (VirtualMin):
 Hosting server:          cs2410-web01pvm.aston.ac.uk
 
@@ -56,7 +56,7 @@ CUSTOMER SIDE WORKING:
 •	If the admin logs into the admin portal, he will be welcomed with his name at the admin dashboard.
 •	The availability page lists all the products stocked on the site – with the edit button linking to an edit form to update in the database. Delete button will remove the stock
 •	The order page shows order history of customers.
-•	The edit profile page allows admin to change their username on a form and updates to database. The fourth panel will display the shoe trends of our website currently. 
+•	The edit profile page allows admin to change their username on a form and updates to database. 
 
  
 DEPLOYMENT OF THE WEBSITE: 
